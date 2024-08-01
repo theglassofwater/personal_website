@@ -1,6 +1,7 @@
 venv
 symbolic_music_imports.py
 symbolic_music_testing.ipynb
+holder.mid
 
 __pycache__/
 *.pyc
